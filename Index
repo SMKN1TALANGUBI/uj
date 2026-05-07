@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Sistem Ujian Online</title>
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; width: 100%; overflow: hidden; background-color: #f8fafc; }
+        iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+    </style>
+</head>
+<body>
+    <!-- GANTI URL_DI_BAWAH_INI DENGAN URL WEB APP HASIL DEPLOY TAHAP 1 -->
+    <iframe 
+        src="https://script.google.com/macros/s/AKfycbx5Aj1FlyYVox2E3jyJJcqYtEK7Latyb4tYzk7PUX4WcXK_oslISbSrS7IuLilEXdYH/exec" 
+        allow="geolocation; camera; microphone; fullscreen" 
+        sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-forms allow-popups allow-modals">
+    </iframe>
+</body>
+</html>
+
